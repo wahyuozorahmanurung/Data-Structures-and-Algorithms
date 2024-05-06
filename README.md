@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Kumpulkan project disini
+Kumpulan project Sistem Informasi (CRUD) dengan menggunakan bahasa pemograman C++ dan QT sebagai software GUI
